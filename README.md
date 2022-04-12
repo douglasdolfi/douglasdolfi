@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with JavaScript
 - 💬 Ask me about How to start programming, Current and new projects or anything you want
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/douglas-dolfi-59846514b/">LinkedIn</a>
-- ⚡ Fun fact: I'm a fan of One Piece and Naruto animes and a pen spinner
+- ⚡ Fun fact: I'm a pen spinner and a fan of One Piece and Naruto animations 🖊️🍥
